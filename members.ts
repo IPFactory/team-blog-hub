@@ -12,7 +12,6 @@ export const members: Member[] = [
       "https://qiita.com/n01e0/feed",
       "https://n01e0.hateblo.jp/feed",
     ],
-    includeUrlRegex: "medium.com|zenn.dev",
     twitterUsername: "n01e0",
     githubUsername: "n01e0",
     websiteUrl: "https://www.feneshi.co",
